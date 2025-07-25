@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋 I'm Abee!
 
-<!--
-**abxlab/abxlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a 14-year-old software developer who loves building fun and useful things with code!
 
-Here are some ideas to get you started:
+### 🔨 Projects I'm Working On
+- A personal website with React
+- Maybe some cool GitHub Actions in the future 👀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Goals
+- Contribute Next and Node.js soon!
+
+### 📫 Let's Connect!
+- Follow me on GitHub to watch my journey
+
+---
+
+✨ I'm learning by doing. If you're a developer too, feel free to give tips or say hi!
