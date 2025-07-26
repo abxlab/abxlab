@@ -12,6 +12,4 @@
 ### 📫 Let's Connect!
 - Follow me on GitHub to watch my journey
 
----
-
 ✨ I'm learning by doing. If you're a developer too, feel free to give tips or say hi!
