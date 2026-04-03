@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Abee!
 
-🚀 I'm a 14-year-old software developer who loves building fun and useful things with code!
+🚀 I'm a 11-year-old software developer who loves building fun and useful things with code!
 
 ### 🔨 Projects I'm Working On
 - A personal website with React
